@@ -44,27 +44,30 @@ A full-stack mail application with features similar to Gmail. Users can register
     ```
     npm install
    ```
-5.Navigate into the project directory:
+4.Navigate into the project directory:
      ```
         cd backend
     ```
-6. Install dependencies:
+5.Install dependencies:
     ```
         npm install
-       ```
-
-7. Create a `.env` file in the root directory for backend. Example for the backend `.env`:
+     ```
+6.Create a `.env` file in the root directory for backend. Example for the backend `.env`:
     ```
     MONGO_URI=<your_mongo_db_connection_string>
     JWT_SECRET=<your_jwt_secret>
     PORT=YOUR_PORT
     ```
-8. Start the development server:
+7.Start the development server:
     ```bash
     cd backend
     nodemon index.js
     ```
-
+8. Start the backend server:
+    ```bash
+    cd frontend
+    npm run dev
+    ```
 9. Start the backend server:
     ```bash
     cd frontend
