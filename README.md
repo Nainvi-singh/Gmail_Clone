@@ -33,43 +33,42 @@ A full-stack mail application with features similar to Gmail. Users can register
 ### **Getting Started**
 
 1. Clone the repository:
-    ```
+```bash
     https://github.com/Nainvi-singh/Gmail_Clone.git
-    ```
+```
 2.Navigate into the project directory:
-    ```
+```bash
     cd frontend
-    ```
+ ```
 3.Install dependencies:
-    ```
+```bash
     npm install
-    ```
-    
+```
 4.Navigate into the project directory:
-     ```
+```bash
         cd backend
-    ```
+```
     
 5.Install dependencies:
-    ```
+```bash
         npm install
-     ```
+```
 6.Create a `.env` file in the root directory for backend. Example for the backend `.env`:
-    ```
+ ```bash
     MONGO_URI=<your_mongo_db_connection_string>
     JWT_SECRET=<your_jwt_secret>
     PORT=YOUR_PORT
-    ```
+  ```
 7.Start the backend:
-    ```bash
+```bash
     cd server
     npm run dev
-    ```
+```
 8.Start the frontend:
-    ```bash
+```bash
     cd frontend
     npm run dev
-    ```
+```
 9.Open your browser and go to `http://localhost:{PORT}`.
 
 
