@@ -44,10 +44,12 @@ A full-stack mail application with features similar to Gmail. Users can register
     ```
     npm install
     ```
+    
 4.Navigate into the project directory:
      ```
         cd backend
     ```
+    
 5.Install dependencies:
     ```
         npm install
