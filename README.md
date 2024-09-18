@@ -62,8 +62,8 @@ A full-stack mail application with features similar to Gmail. Users can register
     ```
 7.Start the backend:
     ```bash
-    cd backend
-    nodemon index.js
+    cd server
+    npm run dev
     ```
 8.Start the frontend:
     ```bash
