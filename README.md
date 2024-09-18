@@ -36,14 +36,14 @@ A full-stack mail application with features similar to Gmail. Users can register
     ```
     https://github.com/Nainvi-singh/Gmail_Clone.git
     ```
-2. Navigate into the project directory:
+2.Navigate into the project directory:
     ```
     cd frontend
     ```
-3. Install dependencies:
+3.Install dependencies:
     ```
     npm install
-   ```
+    ```
 4.Navigate into the project directory:
      ```
         cd backend
@@ -58,23 +58,17 @@ A full-stack mail application with features similar to Gmail. Users can register
     JWT_SECRET=<your_jwt_secret>
     PORT=YOUR_PORT
     ```
-7.Start the development server:
+7.Start the backend:
     ```bash
     cd backend
     nodemon index.js
     ```
-8. Start the backend server:
+8.Start the frontend:
     ```bash
     cd frontend
     npm run dev
     ```
-9. Start the backend server:
-    ```bash
-    cd frontend
-    npm run dev
-    ```
-
-10. Open your browser and go to `http://localhost:{PORT}`.
+9.Open your browser and go to `http://localhost:{PORT}`.
 
 
 ## **Redux Store**
@@ -96,4 +90,4 @@ The Redux store is set up to handle the email states (Inbox and Sent emails) and
 - Create a new feature branch.
 - Make your changes and commit them.
 - Open a pull request.
-# Gmail_Clone
+
