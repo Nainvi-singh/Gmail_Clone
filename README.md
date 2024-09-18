@@ -32,7 +32,7 @@ A full-stack mail application with features similar to Gmail. Users can register
 
 ### **Getting Started**
 
-1. Clone the frontend repository:
+1. Clone the repository:
     ```
     https://github.com/Nainvi-singh/Gmail_Clone.git
     ```
@@ -44,12 +44,6 @@ A full-stack mail application with features similar to Gmail. Users can register
     ```
     npm install
    ```
-4. Clone the backend repository:
-   create a backend folder then clone:
-     ```
-     https://github.com/Nainvi-singh/Gmail_clone_backend.git
-      ```
-   #### To Know More About Backend: [Click Here](https://github.com/Nainvi-singh/Gmail_clone_backend)
 5.Navigate into the project directory:
      ```
         cd backend
